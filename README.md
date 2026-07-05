@@ -10,6 +10,8 @@ Proyek ini disusun untuk memenuhi tugas **UAS Praktikum Machine Learning (2026)*
 
 ## 📂 Struktur Repository
 ```text
+├── dataset/
+│   └── PRSA_data_2010.1.1-2014.12.31.csv   # Dataset Mentah UCI Beijing PM2.5
 ├── UAS_Machine_Learning.ipynb               # Dokumentasi Notebook Interaktif (Colab)
 ├── uas_machine_learning.py                  # Skrip Python Murni
 └── README.md                                # Dokumentasi Utama Proyek
